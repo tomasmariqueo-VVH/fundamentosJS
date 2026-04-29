@@ -125,3 +125,4 @@ function ejercicio10() {
         alert(`El número mayor es: ${num2}`)
     }
 }
+
